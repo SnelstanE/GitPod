@@ -1,0 +1,182 @@
+body{
+    background-color: #f5f3f4;
+}
+li{
+    list-style-type: none;
+}
+
+.header{
+    font-family: 'Roboto', sans-serif;
+}
+
+.circle_logo{
+    position: absolute;
+    width: 90px; 
+height: 40px;
+background: black;
+margin-left: 1675px;
+margin-top: -29px;
+border-radius: 30%/70%;
+}
+
+.name{
+    width: 131px;
+height: 40px;
+position: absolute;
+color: #12100C;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+margin-left: 180px;
+margin-top: 4px;
+}
+.logo{
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 110px;
+}
+
+.Features{
+    width: 63px;
+    margin-left: 650px;
+    color: rgba(18, 16, 12, 0.70);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    margin-top: 28px;
+    cursor:default;
+}
+.Pricing{
+    color: rgba(18, 16, 12, 0.70);
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    width: 51px;
+    margin-left: 761px;
+    margin-top: -24px;
+    cursor:default;
+}
+.Blog{
+    margin-left: 872px;
+    color: rgba(18, 16, 12, 0.70);
+    margin-top: -21px;
+    font-size: 16px;
+    cursor:default;
+}
+.Docs{
+    margin-left: 973px;
+    color: rgba(18, 16, 12, 0.70);
+    margin-top: -19px;
+    font-size: 16px;
+    cursor:default;
+}
+.Changelog{
+    margin-left: 1073px;
+    color: rgba(18, 16, 12, 0.70);
+    margin-top: -19px;
+    font-size: 16px;
+    cursor:default;
+}
+.We_re_hiring{
+    margin-left: 1213px;
+    color: rgba(18, 16, 12, 0.70);
+    margin-top: -19px;
+    font-size: 16px;
+    cursor:default;
+}
+
+.Login{
+    position: absolute;
+    margin-left: 1699.5px;
+    margin-top: -19px;
+    color: white;
+    z-index: 1;
+    font-family: 'Roboto', sans-serif;
+}
+.room{
+    margin-left:1060px;
+    margin-top: 135px;
+}
+
+.first_word_footer{
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    margin-top: -650px;
+    position: absolute;
+    margin-left: 110px;
+    font-weight: 650;
+}
+.two_word_footer{
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    margin-top: -550px;
+    position: absolute;
+    margin-left: 110px;
+    font-weight: 650;
+}
+
+.small_txt{
+    color: rgba(18, 16, 12, 0.70);
+
+font-family: 'Roboto', sans-serif;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: 31.92px; /* 138.783% */
+position: absolute;
+margin-left: -1658px;
+margin-top: 530px;
+}
+.txt_try_now{
+    font-family: 'Roboto', sans-serif;
+    color: #12100C;
+
+position: absolute;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 22.5px; /* 125% */
+margin-left: 170px;
+margin-top: -190px;
+}
+
+.circle_try_now{
+    width: 180px;
+    height: 60px;
+    background-color: #FFAE33;
+    margin-left: 112px;
+    margin-top: -207px;
+    border-radius: 30%/70%;
+}
+.small_text_down_footer{
+    color: rgba(18, 16, 12, 0.70);
+
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+margin-left: 330px;
+margin-top: -55px;
+}
+
+.fox{
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 10px;
+}
+.git{
+    position: absolute;
+    margin-left: 185px;
+    margin-top: 10px;
+}
+.nni{
+    position: absolute;
+    margin-left: 245px;
+    margin-top: 10px;
+}
