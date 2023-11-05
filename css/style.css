@@ -180,3 +180,29 @@ margin-top: -55px;
     margin-left: 245px;
     margin-top: 10px;
 }
+
+.down_footer_txt{
+    color: #12100C;
+    font-size: 54px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: absolute;
+
+    margin-left: 775px;
+    margin-top: 200px;
+}
+
+.down_footer_black_txt{
+    color: #999795;
+
+text-align: center;
+font-family: Roboto;
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+line-height: 63.72px; /* 118% */
+text-decoration-line: strikethrough;
+margin-top: 280px;
+margin-left: 420px;
+position: absolute;
+}
